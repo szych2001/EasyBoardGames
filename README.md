@@ -5,11 +5,8 @@ Autorzy: Nikodem Zbaraza, Wojciech Zamarski, Sebastian Zych
 
 # Zaimplementowane gry:
 
-
 1. warcaby
 2. skoczki
 
-
-
-
+# Uruchomienie:
 Aby uruchomić aplikację należy uruchomić klasę Main
